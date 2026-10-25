@@ -9,3 +9,8 @@ What you can find here :
  - .kpmap (Koopatlas Map) file of the worldmap of Yamato.
  - Tileset files used in the worldmap.
  - Reggie spritedata.xml to use the new features in your levels.
+
+Feel free to use any of this for any usage, no need to credit me! :)
+
+---Credits---
+ - Credits to the Newer Team for original code and graphics
