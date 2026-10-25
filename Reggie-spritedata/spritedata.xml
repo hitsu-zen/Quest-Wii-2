@@ -1,0 +1,10 @@
+<sprite id="152" name="Message Box" notes="A block that the player can hit which will display a custom message. Messages are defined in Messages.bin.">
+    <dependency notes="The Message Box Controller must be included in each Zone for Message Boxes to function correctly.">
+      <required sprite="107"/>
+    </dependency>
+    <value nybble="9-12" title="Message ID" comment="Messages defined in Messages.bin. Add 256 to the value shown in the Newer Message Editor program. (01/10/18)" idtype="Message"/>
+    <value nybble="5-8"  title="Triggering event" comment="When said event will be activated, message will show up even without hitting the block." />
+  </sprite> <!-- 152: Message Box -->
+
+<sprite id="486" name="ItemSpawner" notes = "">
+</sprite>
